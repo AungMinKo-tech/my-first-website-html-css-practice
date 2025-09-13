@@ -1,4 +1,4 @@
-#  Web Design Project
+#  Web Design
 
 This project is a responsive web design built with HTML5 and CSS3.  
 It focuses on clean UI, modern layout, and mobile-friendly design.
